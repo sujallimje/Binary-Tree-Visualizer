@@ -12,10 +12,10 @@ children. The node to the left of any parent node must contain a value less than
 the value of the parent node, and the node to the right must contain a value
 greater than the value of the parent node.
 
-![Binary Tree Example](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Binary_tree_v2.svg/330px-Binary_tree_v2.svg.png)
+![Binary Tree Example](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Complete_binary2.svg/330px-Complete_binary2.svg.png)
 
-For more information, see [this explanation](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
-from GeeksForGeeks
+For more information, see [this explanation](https://en.wikipedia.org/wiki/Binary_tree#:~:text=In%20computer%20science%2C%20a%20binary,ary%20tree%20with%20k%20%3D%202.)
+from Wikipedia
 
 ## Using the Visualization
 
@@ -85,6 +85,6 @@ how each class functions**
 * Make the tree self-balancing using [AVL tree rotation](https://www.cise.ufl.edu/~nemo/cop3530/AVL-Tree-Rotations.pdf)
 * Additional tree types
 
-##Animation Updates
+## Animation Update Ideas
 * Add an animation for removing a node from the tree
 * Improve the performance of the Explorer class for larger trees with svg
